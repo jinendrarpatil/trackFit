@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/trackFit/static/css/main.21ff196e.chunk.css",
+    "main.js": "/trackFit/static/js/main.acee1cb8.chunk.js",
+    "main.js.map": "/trackFit/static/js/main.acee1cb8.chunk.js.map",
+    "runtime~main.js": "/trackFit/static/js/runtime~main.19ede153.js",
+    "runtime~main.js.map": "/trackFit/static/js/runtime~main.19ede153.js.map",
+    "static/css/2.76dbdff4.chunk.css": "/trackFit/static/css/2.76dbdff4.chunk.css",
+    "static/js/2.2ca05272.chunk.js": "/trackFit/static/js/2.2ca05272.chunk.js",
+    "static/js/2.2ca05272.chunk.js.map": "/trackFit/static/js/2.2ca05272.chunk.js.map",
+    "index.html": "/trackFit/index.html",
+    "precache-manifest.9b91f5a1ddadc4399f873dbe506fdb92.js": "/trackFit/precache-manifest.9b91f5a1ddadc4399f873dbe506fdb92.js",
+    "service-worker.js": "/trackFit/service-worker.js",
+    "static/css/2.76dbdff4.chunk.css.map": "/trackFit/static/css/2.76dbdff4.chunk.css.map",
+    "static/css/main.21ff196e.chunk.css.map": "/trackFit/static/css/main.21ff196e.chunk.css.map",
+    "static/media/1.jpg": "/trackFit/static/media/1.2ed23e89.jpg",
+    "static/media/2.jpg": "/trackFit/static/media/2.98165845.jpg",
+    "static/media/3.jpg": "/trackFit/static/media/3.28e0e399.jpg",
+    "static/media/4.jpg": "/trackFit/static/media/4.aae92f17.jpg",
+    "static/media/5.jpg": "/trackFit/static/media/5.05c6877c.jpg"
+  }
+}
